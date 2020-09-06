@@ -241,7 +241,7 @@
     /* -------------------------------------------- */
 
       .bg-works {
-        background-image: url(/Users/ikeda/Desktop/cresta_second/img/works-bgi@2x.jpg);
+        background-image: url(works-bgi@2x.jpg);
         background-size: cover;
         background-position: center;
       }
@@ -281,15 +281,15 @@
       }
 
       .service-item.service1 {
-        background-image: url(/Users/ikeda/Desktop/cresta_second/img/service-img01@2x.jpg);
+        background-image: url(service-img01@2x.jpg);
       }
 
       .service-item.service2 {
-        background-image: url(/Users/ikeda/Desktop/cresta_second/img/service-img02@2x.jpg);
+        background-image: url(service-img02@2x.jpg);
       }
 
       .service-item.service3 {
-        background-image: url(/Users/ikeda/Desktop/cresta_second/img/sevice-img03@2x.jpg);
+        background-image: url(sevice-img03@2x.jpg);
       }
 
       .service-item a {
@@ -316,7 +316,7 @@
       /* -------------------------------------------- */
 
       .bg-contact {
-        background-image: url(/Users/ikeda/Desktop/cresta_second/img/contact-bgi@2x.jpg);
+        background-image: url(contact-bgi@2x.jpg);
         background-size: cover;
         background-position: center;
       }
