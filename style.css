@@ -252,6 +252,7 @@
         padding: 0 50px;
         display: flex;
         justify-content: space-between;
+        list-style: none;
       }
 
       .works-item {
