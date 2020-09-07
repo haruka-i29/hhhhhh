@@ -278,6 +278,7 @@
 
       .service-list {
         display: flex;
+        list-style: none;
       }
 
       .service-item {
